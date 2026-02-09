@@ -81,7 +81,7 @@ Este proyecto es de código abierto y está disponible para uso educativo y dawa
 
 ## 🎓 Sobre el Traductor
 
-Edgar es un profesional de eDiscovery con pasión por las ciencias islámicas y el idioma árabe. Este proyecto nace del deseo de hacer accesible el conocimiento islámico a la comunidad hispanohablante.
+Edgar es su hermano quien tiene una gran pasión por las ciencias islámicas y el idioma árabe. Este proyecto nace del deseo de hacer accesible el conocimiento islámico a la comunidad hispanohablante.
 
 ---
 
@@ -103,6 +103,5 @@ Edgar es un profesional de eDiscovery con pasión por las ciencias islámicas y 
 
 *Hecho con ❤️ para la Ummah hispanohablante*
 
-⭐ **Si este proyecto te beneficia, por favor dale una estrella!** ⭐
 
 </div>
