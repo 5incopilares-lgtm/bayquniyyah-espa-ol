@@ -4,7 +4,7 @@
 
 ## 🎯 Sobre el Proyecto
 
-Esta es la **primera traducción completa al español** de *Al-Manẓūmah al-Bayqūniyyah* (المنظومة البيقونية), el poema clásico sobre la ciencia del ḥadīz escrito por el Imām ʿUmar ibn Muḥammad ibn Futūḥ al-Bayqūnī (fallecido ~1080 H).
+Esta es una **traducción completa al español** de *Al-Manẓūmah al-Bayqūniyyah* (المنظومة البيقونية), el poema clásico sobre la ciencia del ḥadīz escrito por el Imām ʿUmar ibn Muḥammad ibn Futūḥ al-Bayqūnī (fallecido ~1080 H).
 
 ### ✨ Características
 
