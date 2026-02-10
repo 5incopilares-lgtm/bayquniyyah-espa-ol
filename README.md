@@ -36,7 +36,7 @@ Existe muy poco material de calidad sobre ciencias del ḥadīz en español. Est
 ## 🚀 Cómo Usar
 
 ### En línea
-Visita: [https://tu-usuario.github.io/bayquniyyah-español/](https://tu-usuario.github.io/bayquniyyah-español/)
+Visita: https://5incopilares-lgtm.github.io/bayquniyyah-espa-ol/
 
 ### Offline
 1. Descarga `index.html`
